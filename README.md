@@ -1,6 +1,6 @@
 ![Header](./Arpa_Cover.png)
 <h1 align="center">Hi 👋, I'm Sarosije Humaira Arpa</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://plan.io/images/blog/become-a-more-productive-software-engineer.png?1702997175">
 
